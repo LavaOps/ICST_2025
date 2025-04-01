@@ -20,8 +20,7 @@ The **boxplot** directory contains the data necessary to reproduce the boxplots 
 
 The **graphs** directory contains the data to reproduce the graphs in the paper. 
 
+**Acknowledgements**
 This work was supported by the
-Office of Biological and Environmental Research (BER) in the U.S. Department of Energy (DOE) Office of Science award DE-SC0025510, by NSF award CCF-1909688,
-and BER support of the DOE Systems Biology Knowledgebase (kbase.us)  at Oak Ridge National Laboratory, managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725.
-We thank Thao Nguyen for help with some automation early in the project. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Department of Energy Office of Science, or the National Science Foundation.
+Office of Biological and Environmental Research (BER) in the U.S. Department of Energy (DOE) Office of Science award DE-SC0025510, by NSF award CCF-1909688, and BER support of the DOE Systems Biology Knowledgebase (kbase.us)  at Oak Ridge National Laboratory, managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725. We thank Thao Nguyen for help with some automation early in the project. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Department of Energy Office of Science, or the National Science Foundation.
 
