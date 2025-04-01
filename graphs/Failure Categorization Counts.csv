@@ -1,0 +1,10 @@
+﻿Failure Category,Number of (non-unique) Failures
+Structural,517
+Initialization Error,335
+Not Following Expected Relation,282
+Default doesn't match,23
+Poor Test Case,16
+Type Error,10
+Biologically Incorrect,10
+NaN,4
+Solver Error,2

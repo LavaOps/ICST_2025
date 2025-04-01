@@ -1,0 +1,55 @@
+﻿MR #,Description,Check,inequality/equality,type
+MR1,change carbon source, biomass,equality,domain
+MR10,add compound, number of metabolites,equality,basic
+MR11,add compound, glucose uptake,equality,basic
+MR12,add compound, uptake of new compound,inequality,domain
+MR13,decrease glucose uptake, biomass,inequality,domain
+MR14,decrease glucose uptake, number of reactions,equality,basic
+MR15,decrease glucose uptake, number of genes,equality,basic
+MR16,decrease glucose uptake, number of metabolites,equality,basic
+MR17,decrease glucose uptake, glucose uptake,inequality,basic
+MR18,decrease glucose uptake, flux through pyk,inequality,domain
+MR19,decrease glucose uptake, flux through HEX1,inequality,domain
+MR2,change carbon source, number of reactions,equality,basic
+MR20,decrease glucose uptake, flux through PFK,inequality,domain
+MR21,decrease glucose uptake, flux through PGI,inequality,domain
+MR22,decrease glucose uptake, flux through PGM,inequality,domain
+MR23,increase glucose uptake, biomass,inequality,domain
+MR24,increase glucose uptake, number of reactions,equality,basic
+MR25,increase glucose uptake, number of genes,equality,basic
+MR26,increase glucose uptake, number of metabolites,equality,basic
+MR27,increase glucose uptake, glucose uptake,inequality,basic
+MR28,increase glucose uptake, flux through pyk,inequality,domain
+MR29,increase glucose uptake, flux through HEX1,inequality,domain
+MR3,change carbon source, number of genes,equality,basic
+MR30,increase glucose uptake, flux through PFK,inequality,domain
+MR31,increase glucose uptake, flux through PGI,inequality,domain
+MR32,increase glucose uptake, flux through PGM,inequality,domain
+MR33,optimize non-biomass, biomass,inequality,basic
+MR34,optimize non-biomass, number of reactions,equality,basic
+MR35,optimize non-biomass, number of genes,equality,basic
+MR36,optimize non-biomass, number of metabolites,equality,basic
+MR37,optimize non-biomass, glucose uptake,equality,basic
+MR38,optimize non-biomass, flux through new opt,inequality,basic
+MR39,remove essential nutrient, biomass,inequality,domain
+MR4,change carbon source, number of metabolites,equality,basic
+MR40,remove essential nutrient, number of reactions,equality,basic
+MR41,remove essential nutrient, number of genes,equality,basic
+MR42,remove essential nutrient, number of metabolites,equality,basic
+MR43,remove essential nutrient, glucose uptake,inequality,basic
+MR44,remove essential nutrient, flux through that nutrient,inequality,basic
+MR45,default glucose uptake, biomass,equality,basic
+MR46,default glucose uptake, number of reactions,equality,basic
+MR47,default glucose uptake, number of genes,equality,basic
+MR48,default glucose uptake, number of metabolites,equality,basic
+MR49,default glucose uptake, glucose uptake,equality,basic
+MR5,change carbon source, glucose uptake,inequality,basic
+MR50,default glucose uptake, flux through pyk,equality,basic
+MR51,default glucose uptake, flux through HEX1,equality,basic
+MR52,default glucose uptake, flux through PFK,equality,basic
+MR53,default glucose uptake, flux through PGI,equality,basic
+MR54,default glucose uptake, flux through PGM,equality,basic
+MR6,change carbon source, new carbon source uptake,inequality,domain
+MR7,add compound, biomass,equality,domain
+MR8,add compound, number of reactions,equality,basic
+MR9,add compound, number of genes,equality,basic

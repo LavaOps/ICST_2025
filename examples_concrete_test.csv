@@ -1,0 +1,321 @@
+﻿MR #,Description,concrete-test level,Tool,Model,pass/fail
+MR1,"change carbon source, biomass",cdg: Maltose,ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",cdg: lactose,ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",cdg: glycerol,ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",cdg: Maltose,ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: lactose,ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: glycerol,ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: Maltose,ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",cdg: lactose,ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",cdg: glycerol,ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",cdg: Maltose,ReFramed,iCN900,pass
+MR1,"change carbon source, biomass",cdg: lactose,ReFramed,iCN900,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),ReFramed,iCN900,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),ReFramed,iCN900,pass
+MR1,"change carbon source, biomass",cdg: glycerol,ReFramed,iCN900,pass
+MR1,"change carbon source, biomass",cdg: Maltose,CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",cdg: lactose,CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",cdg: glycerol,CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",cdg: Maltose,CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: lactose,CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: glycerol,CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: Maltose,KBase,iML1515,pass
+MR1,"change carbon source, biomass",cdg: lactose,KBase,iML1515,fail
+MR1,"change carbon source, biomass",cdg: galactose(D),KBase,iML1515,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),KBase,iML1515,pass
+MR1,"change carbon source, biomass",cdg: glycerol,KBase,iML1515,pass
+MR1,"change carbon source, biomass",cdg: Maltose,KBase,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: lactose,KBase,iJO1366,fail
+MR1,"change carbon source, biomass",cdg: galactose(D),KBase,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),KBase,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: glycerol,KBase,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: Maltose,KBase,iSB619,pass
+MR1,"change carbon source, biomass",cdg: lactose,KBase,iSB619,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),KBase,iSB619,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),KBase,iSB619,pass
+MR1,"change carbon source, biomass",cdg: glycerol,KBase,iSB619,pass
+MR1,"change carbon source, biomass",cdg: Maltose,KBase,iCN900,pass
+MR1,"change carbon source, biomass",cdg: lactose,KBase,iCN900,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),KBase,iCN900,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),KBase,iCN900,pass
+MR1,"change carbon source, biomass",cdg: glycerol,KBase,iCN900,pass
+MR1,"change carbon source, biomass",cdg: Maltose,OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",cdg: lactose,OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",cdg: glycerol,OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",cdg: Maltose,OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: lactose,OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: galactose(D),OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: fructose (D),OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",cdg: glycerol,OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",Default: Maltose,ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",Default: lactose,ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",Default: galactose(D),ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",Default: fructose (D),ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",Default: glycerol,ReFramed,iML1515,pass
+MR1,"change carbon source, biomass",Default: Maltose,ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",Default: lactose,ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",Default: galactose(D),ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",Default: fructose (D),ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",Default: glycerol,ReFramed,iJO1366,pass
+MR1,"change carbon source, biomass",Default: Maltose,ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",Default: lactose,ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",Default: galactose(D),ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",Default: fructose (D),ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",Default: glycerol,ReFramed,iSB619,pass
+MR1,"change carbon source, biomass",Default: Maltose,CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",Default: lactose,CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",Default: galactose(D),CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",Default: fructose (D),CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",Default: glycerol,CobraPY,iML1515,pass
+MR1,"change carbon source, biomass",Default: Maltose,CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",Default: lactose,CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",Default: galactose(D),CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",Default: fructose (D),CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",Default: glycerol,CobraPY,iJO1366,pass
+MR1,"change carbon source, biomass",Default: Maltose,CobraPY,iSB619,fail
+MR1,"change carbon source, biomass",Default: lactose,CobraPY,iSB619,fail
+MR1,"change carbon source, biomass",Default: galactose(D),CobraPY,iSB619,fail
+MR1,"change carbon source, biomass",Default: fructose (D),CobraPY,iSB619,fail
+MR1,"change carbon source, biomass",Default: glycerol,CobraPY,iSB619,fail
+MR1,"change carbon source, biomass",Default: lactose,KBase,iCN900,pass
+MR1,"change carbon source, biomass",Default: galactose(D),KBase,iCN900,pass
+MR1,"change carbon source, biomass",Default: Maltose,OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",Default: lactose,OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",Default: galactose(D),OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",Default: fructose (D),OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",Default: glycerol,OptFlux,iML1515,pass
+MR1,"change carbon source, biomass",Default: Maltose,OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",Default: lactose,OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",Default: galactose(D),OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",Default: fructose (D),OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",Default: glycerol,OptFlux,iJO1366,pass
+MR1,"change carbon source, biomass",Default: Maltose,OptFlux,iSB619,pass
+MR1,"change carbon source, biomass",Default: lactose,OptFlux,iSB619,pass
+MR1,"change carbon source, biomass",Default: fructose (D),OptFlux,iSB619,pass
+MR1,"change carbon source, biomass",Default: glycerol,OptFlux,iSB619,pass
+MR1,"change carbon source, biomass",Default: lactose,KBase,iML1515,fail
+MR1,"change carbon source, biomass",Default: lactose,KBase,iJO1366,fail
+MR1,"change carbon source, biomass",Default: lactose,KBase,iSB619,pass
+MR1,"change carbon source, biomass",Default: galactose(D),KBase,iSB619,pass
+MR1,"change carbon source, biomass",cdg: Maltose,CobraPY,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: lactose,CobraPY,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: galactose(D),CobraPY,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: fructose (D),CobraPY,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: glycerol,CobraPY,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: Maltose,CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: lactose,CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: galactose(D),CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: fructose (D),CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: glycerol,CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: Maltose,OptFlux,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: lactose,OptFlux,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: galactose(D),OptFlux,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: fructose (D),OptFlux,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: glycerol,OptFlux,iSB619,couldn't run
+MR1,"change carbon source, biomass",cdg: Maltose,OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: lactose,OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: galactose(D),OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: fructose (D),OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",cdg: glycerol,OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,ReFramed,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: lactose,ReFramed,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: galactose(D),ReFramed,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),ReFramed,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,ReFramed,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: lactose,CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: galactose(D),CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,CobraPY,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,KBase,iML1515,couldn't run
+MR1,"change carbon source, biomass",Default: galactose(D),KBase,iML1515,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),KBase,iML1515,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,KBase,iML1515,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,KBase,iJO1366,couldn't run
+MR1,"change carbon source, biomass",Default: galactose(D),KBase,iJO1366,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),KBase,iJO1366,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,KBase,iJO1366,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,KBase,iSB619,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),KBase,iSB619,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,KBase,iSB619,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,KBase,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),KBase,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,KBase,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: galactose(D),OptFlux,iSB619,couldn't run
+MR1,"change carbon source, biomass",Default: Maltose,OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: lactose,OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: galactose(D),OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: fructose (D),OptFlux,iCN900,couldn't run
+MR1,"change carbon source, biomass",Default: glycerol,OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: Maltose,ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,KBase,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),KBase,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),KBase,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,KBase,iML1515,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,KBase,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),KBase,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),KBase,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,KBase,iJO1366,pass
+MR2,"change carbon source, number of reactions",cdg: Maltose,KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: galactose(D),KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: fructose (D),KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: glycerol,KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: lactose,ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,ReFramed,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: lactose,ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,ReFramed,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: lactose,ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,ReFramed,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: lactose,ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,ReFramed,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: lactose,CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,CobraPY,iML1515,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: lactose,CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,CobraPY,iJO1366,pass
+MR2,"change carbon source, number of reactions",Default: Maltose,CobraPY,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: lactose,CobraPY,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: fructose (D),CobraPY,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: glycerol,CobraPY,iSB619,pass
+MR2,"change carbon source, number of reactions",Default: lactose,KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",Default: galactose(D),KBase,iCN900,pass
+MR2,"change carbon source, number of reactions",cdg: lactose,KBase,iML1515,fail
+MR2,"change carbon source, number of reactions",cdg: lactose,KBase,iJO1366,fail
+MR2,"change carbon source, number of reactions",cdg: Maltose,KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",cdg: lactose,KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",cdg: galactose(D),KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",cdg: fructose (D),KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",cdg: glycerol,KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",cdg: Maltose,OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",cdg: lactose,OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",cdg: galactose(D),OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",cdg: fructose (D),OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",cdg: glycerol,OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",cdg: Maltose,OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",cdg: lactose,OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",cdg: galactose(D),OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",cdg: fructose (D),OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",cdg: glycerol,OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: galactose(D),CobraPY,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: lactose,KBase,iML1515,fail
+MR2,"change carbon source, number of reactions",Default: lactose,KBase,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: lactose,KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: galactose(D),KBase,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: Maltose,OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",Default: lactose,OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",Default: galactose(D),OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",Default: fructose (D),OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",Default: glycerol,OptFlux,iML1515,fail
+MR2,"change carbon source, number of reactions",Default: Maltose,OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: lactose,OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: galactose(D),OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: fructose (D),OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: glycerol,OptFlux,iJO1366,fail
+MR2,"change carbon source, number of reactions",Default: Maltose,OptFlux,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: lactose,OptFlux,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: galactose(D),OptFlux,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: fructose (D),OptFlux,iSB619,fail
+MR2,"change carbon source, number of reactions",Default: glycerol,OptFlux,iSB619,fail
+MR2,"change carbon source, number of reactions",cdg: Maltose,CobraPY,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: lactose,CobraPY,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: galactose(D),CobraPY,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: fructose (D),CobraPY,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: glycerol,CobraPY,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: Maltose,CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: lactose,CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: galactose(D),CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: fructose (D),CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: glycerol,CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: Maltose,OptFlux,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: lactose,OptFlux,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: galactose(D),OptFlux,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: fructose (D),OptFlux,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: glycerol,OptFlux,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",cdg: Maltose,OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: lactose,OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: galactose(D),OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: fructose (D),OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",cdg: glycerol,OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: Maltose,CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: lactose,CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: galactose(D),CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: fructose (D),CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: glycerol,CobraPY,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: Maltose,KBase,iML1515,couldn't run
+MR2,"change carbon source, number of reactions",Default: galactose(D),KBase,iML1515,couldn't run
+MR2,"change carbon source, number of reactions",Default: fructose (D),KBase,iML1515,couldn't run
+MR2,"change carbon source, number of reactions",Default: glycerol,KBase,iML1515,couldn't run
+MR2,"change carbon source, number of reactions",Default: Maltose,KBase,iJO1366,couldn't run
+MR2,"change carbon source, number of reactions",Default: galactose(D),KBase,iJO1366,couldn't run
+MR2,"change carbon source, number of reactions",Default: fructose (D),KBase,iJO1366,couldn't run
+MR2,"change carbon source, number of reactions",Default: glycerol,KBase,iJO1366,couldn't run
+MR2,"change carbon source, number of reactions",Default: Maltose,KBase,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",Default: fructose (D),KBase,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",Default: glycerol,KBase,iSB619,couldn't run
+MR2,"change carbon source, number of reactions",Default: Maltose,KBase,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: fructose (D),KBase,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: glycerol,KBase,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: Maltose,OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: lactose,OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: galactose(D),OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: fructose (D),OptFlux,iCN900,couldn't run
+MR2,"change carbon source, number of reactions",Default: glycerol,OptFlux,iCN900,couldn't run

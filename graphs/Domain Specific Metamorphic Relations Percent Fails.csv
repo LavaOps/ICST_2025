@@ -1,0 +1,18 @@
+﻿MR #,equal/inequal,domain pass,domain fail,Percent fail,total
+MR1,equality,101,9,8.18,110
+MR7,equality,73,17,18.89,90
+MR6,inequality,84,31,26.96,115
+MR12,inequality,20,70,77.78,90
+MR13,inequality,60,0,0.00,60
+MR18,inequality,39,21,35.00,60
+MR19,inequality,25,35,58.33,60
+MR20,inequality,37,23,38.33,60
+MR21,inequality,55,5,8.33,60
+MR22,inequality,55,5,8.33,60
+MR23,inequality,20,40,66.67,60
+MR28,inequality,42,18,30.00,60
+MR29,inequality,23,37,61.67,60
+MR30,inequality,35,25,41.67,60
+MR31,inequality,52,8,13.33,60
+MR32,inequality,52,8,13.33,60
+MR39,inequality,103,15,12.71,118
