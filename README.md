@@ -3,13 +3,13 @@ This repository contains the supplementary data for "A Tale from the Trenches: A
 To reference this work, please use the following bibtex  
 
 @inproceedings{marsh_ICST_2025,  
-  title={A Tale from the Trenches: Applying Metamorphic and Differential Testing to Bioinformatics Software},  
-  author={Alexis Marsh and  Myra B. Cohen and Robert W. Cottingham},  
-  booktitle={IEEE International Conference on Software Testing, Industry Track (ICST)},  
-  pages={553-564},  
-  year={2025},  
-  month={April},  
-  doi={},  
+    &nbsp;&nbsp;&nbsp;&nbsp;title={A Tale from the Trenches: Applying Metamorphic and Differential Testing to Bioinformatics Software},  
+    &nbsp;&nbsp;&nbsp;&nbsp;author={Alexis Marsh and  Myra B. Cohen and Robert W. Cottingham},  
+    &nbsp;&nbsp;&nbsp;&nbsp;booktitle={IEEE International Conference on Software Testing, Industry Track (ICST)},  
+    &nbsp;&nbsp;&nbsp;&nbsp;pages={553-564},  
+    &nbsp;&nbsp;&nbsp;&nbsp;year={2025},  
+    &nbsp;&nbsp;&nbsp;&nbsp;month={April},  
+    &nbsp;&nbsp;&nbsp;&nbsp;doi={},  
 }  
 
 The **data** directory includes the set of metamorphic relations (Metamorphic Relations.csv) and the pass/fail rate by metamorphic relation (pass_fail by MR.csv). We also include a sample of the concrete data. Full data will be provided upon publication. 
